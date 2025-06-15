@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats-phi-wine.vercel.app?user=Dark-Dynamight)](https://git.io/streak-stats)
 <!--
 **Dark-Dynamight/Dark-Dynamight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
