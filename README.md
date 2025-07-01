@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 <h3>I am P.V.Suryanarayan, an aspiring Full Stack Java Developer. With Basic Knowledge in Java and JavaScript, Good knowledge in HTML and CSS.</h3>
-
+<h4>🛠️Skill Set</h4>
 <ol>
-  <label>🛠️Skill Set</label>
   <li>Java</li>
   <li>JavaScript</li>
   <li>HTML</li>
