@@ -15,7 +15,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Dynamight&layout=compact)](https://github.com/Dark-Dynamight/Dark-Dynamight/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats-phi-wine.vercel.app?user=Dark-Dynamight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dark-Dynamight&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 <!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-phi-wine.vercel.app?user=Dark-Dynamight" alt="GitHub Streak" /></a>-->
 <!--
