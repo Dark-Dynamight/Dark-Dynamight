@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3>I am P.V.Suryanarayan, an aspiring Full Stack Java Developer. With Basic Knowledge in Java and JavaScript, Good knowledge in HTML and CSS.</h3>
+<h3>I am P.V.Suryanarayan, an aspiring Full Stack Java Developer.</h3>
 <h4>🛠️Skill Set</h4>
 <ol>
   <li>Java</li>
@@ -8,6 +8,9 @@
   <li>HTML</li>
   <li>CSS</li>
 </ol>
+
+<h4>Connect with Me</h4>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" href="https://www.linkedin.com/in/p-v-surya-narayana-84a0a124b/">
 
 [![GitHub Streak](https://github-readme-streak-stats-phi-wine.vercel.app?user=Dark-Dynamight)](https://git.io/streak-stats)
 
