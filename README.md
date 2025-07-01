@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-I am P.V.Suryanarayan, an aspiring Full Stack Java Developer. With Basic Knowledge in Java and JavaScript, Good knowledge in HTML and CSS.
+<h1>I am P.V.Suryanarayan, an aspiring Full Stack Java Developer. With Basic Knowledge in Java and JavaScript, Good knowledge in HTML and CSS.</h1>
 
-Skill Set
-1)Java
-2)JavaScript
-3)HTML
-4)CSS
+<ol>
+  <label>Skill Set</label>
+  <li>Java</li>
+  <li>JavaScript</li>
+  <li>HTML</li>
+  <li>CSS</li>
+</ol>
 
 [![GitHub Streak](https://github-readme-streak-stats-phi-wine.vercel.app?user=Dark-Dynamight)](https://git.io/streak-stats)
 
