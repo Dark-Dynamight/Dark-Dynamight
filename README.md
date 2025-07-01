@@ -11,7 +11,7 @@
 
 <h4>Connect with Me</h4>
 
-<a href="https://www.linkedin.com/in/p-v-surya-narayana-84a0a124b/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="50px" height="50px"></a>
+<a href="https://www.linkedin.com/in/p-v-surya-narayana-84a0a124b/" tareget="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="40px" height="40px"></a>
 
 [![GitHub Streak](https://github-readme-streak-stats-phi-wine.vercel.app?user=Dark-Dynamight)](https://git.io/streak-stats)
 
