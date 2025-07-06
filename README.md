@@ -1,34 +1,28 @@
-## Hi there 👋, I am P.V.Suryanarayana
+## Hi there 👋, I'm P.V. Suryanarayana
 
-<h3> An aspiring Full Stack Java Developer.</h3>
-<h4>🛠️Skill Set</h4>
-<ol>
-  <li>Java</li>
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-</ol>
+### 🚀 Aspiring Full Stack Java Developer
 
-<h4>Connect with Me</h4>
+I'm passionate about building dynamic and responsive web applications using modern technologies. I'm continuously learning and exploring the world of web development.
 
-<a href="https://www.linkedin.com/in/p-v-surya-narayana-84a0a124b/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="40px" height="40px"></a>
+---
 
+### 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Dynamight&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dark-Dynamight)](https://git.io/streak-stats)
+- **Languages**: Java, JavaScript  
+- **Frontend**: HTML, CSS  
+- *(Learning React and Backend Tools)*
 
-<!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-phi-wine.vercel.app?user=Dark-Dynamight" alt="GitHub Streak" /></a>-->
-<!--
-**Dark-Dynamight/Dark-Dynamight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Dynamight&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dark-Dynamight&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### 🤝 Connect with Me
+
+<a href="https://www.linkedin.com/in/p-v-surya-narayana-84a0a124b/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="40" height="40" alt="LinkedIn">
+</a>
