@@ -1,4 +1,4 @@
-## Hi there 👋, I'm P.V. Suryanarayana
+## Hi there 👋, I'm Payyaula Venkata Suryanarayana
 
 ### 🚀 Aspiring Full Stack Java Developer
 
