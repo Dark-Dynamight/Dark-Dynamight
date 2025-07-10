@@ -17,7 +17,7 @@ I'm passionate about building dynamic and responsive web applications using mode
 ### 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Dynamight&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dark-Dynamight&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dark-Dynamight&theme=radical)
 
 ---
 
