@@ -8,9 +8,9 @@ I'm passionate about building dynamic and responsive web applications using mode
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Java, JavaScript  
+- **Languages**: C, Embedded C, Java, JavaScript  
 - **Frontend**: HTML, CSS  
-- *(Learning React and Backend Tools)*
+  
 
 ---
 
